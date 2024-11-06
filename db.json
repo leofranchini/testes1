@@ -1,0 +1,52 @@
+{
+  "artists": [
+    {
+      "id": "1",
+      "name": "Leonardo da Vinci",
+      "specialty": "Painting",
+      "bio": "bio do artista"
+    },
+    {
+      "id": "2",
+      "name": "Vincent van Gogh",
+      "specialty": "Painting",
+      "bio": "bio do artista"
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "name": "Mona Lisa",
+      "description": "A portrait of a woman",
+      "status": "In Progress",
+      "artistId": 1,
+      "startDate": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "name": "Starry Night",
+      "description": "A depiction of a night sky",
+      "status": "Completed",
+      "artistId": 2,
+      "startDate": "2024-02-01T00:00:00.000Z"
+    },
+    {
+      "id": 0,
+      "name": "projeto 1",
+      "startDate": "2024-11-05T16:23:36.739",
+      "endDate": null,
+      "description": "descricao projeto",
+      "status": "Completed",
+      "artistId": 1
+    },
+    {
+      "id": 0,
+      "name": "aaaa",
+      "startDate": "2024-11-05T16:23:51.466",
+      "endDate": null,
+      "description": "aaaa",
+      "status": "Completed",
+      "artistId": 1
+    }
+  ]
+}

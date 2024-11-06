@@ -1,0 +1,17 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Project 1",
+      "description": "Description 1",
+      "status": "active"
+    }
+  ],
+  "artists": [
+    {
+      "id": 1,
+      "name": "Artist 1",
+      "bio": "Bio 1"
+    }
+  ]
+}
